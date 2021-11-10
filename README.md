@@ -9,7 +9,7 @@
 Официальный [сайт][1] САПР KiCad. 
 3D модели и посадочные места компонентов были взяты с этого [сайта][2]. 
 
-[1]: http://kicad-pcb.org/  
+[1]: http://kicad.org/  
 [2]: http://smisioto.no-ip.org/elettronica/kicad/kicad-en.htm
 ***
 ##### Подключение библиотеки компонентов
